@@ -1,0 +1,12 @@
+<%- include("partials/header"); -%>
+
+<form action="/" method="POST">
+  <div class="form-group">
+    <label>Title</label>
+    <input autocomplete="off" type="text" class="form-control" placeholder="Enter post Title" name ="title">
+  </div><br>
+  <div class="form-group">
+   <textarea class="form-control" name="content" placeholder="Enter you content"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

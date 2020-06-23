@@ -1,0 +1,19 @@
+*{
+	line-height: 40px;
+	word-spacing: 2px;
+	letter-spacing: 2px;
+}
+h1{
+	font-family: 'Gravitas One', cursive;
+	text-transform: uppercase;
+	text-align: center;
+	color: white
+}
+h2{
+	text-transform: uppercase;
+	line-height: 40px;
+
+}
+p{
+	font-family: 'Alike Angular', serif;
+}
